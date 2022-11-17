@@ -11,8 +11,8 @@
 
 - Python
 - Chrome浏览器
-- ![Selenium](https://pypi.org/project/selenium/)
-- ![ChromeDriver](https://chromedriver.chromium.org/downloads)（与Chrome浏览器版本一致）
+- [Selenium](https://pypi.org/project/selenium/)
+- [ChromeDriver](https://chromedriver.chromium.org/downloads)（与Chrome浏览器版本一致）
 
 ## 3. 使用说明
 
