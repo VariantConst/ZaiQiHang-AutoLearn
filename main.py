@@ -7,7 +7,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support.expected_conditions import *
 
 # 防止打印一些无用的日志
-# test
+# test 2021 11 14 10:26
 option = webdriver.ChromeOptions()
 option.add_experimental_option("excludeSwitches", ['enable-automation','enable-logging'])
 driver = webdriver.Chrome(options=option)
